@@ -2,4 +2,4 @@
 
 app that lets you enter 'world' or a country name and you will recieve live data about that country
 
-![Alt text](C:\Users\bamou\desktop\screenshotgui.jpg?raw=true "Optional Title")
+![screenshotgui](https://user-images.githubusercontent.com/57873275/76709212-f353be00-66ca-11ea-8c1b-edbe8d2410a7.png)
